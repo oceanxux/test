@@ -267,13 +267,6 @@
       "injectFile": "Live Wallpaper"
     },
     {
-      "packageName": "abnerworks.Typora",
-      "needCopyToAppDir": true,
-      "deepSignApp": true,
-      "bridgeFile": "/Contents/MacOS/",
-      "injectFile": "Typora"
-    },
-    {
       "packageName": "com.mac.utility.screen.recorder",
       "bridgeFile": "/Contents/MacOS/",
       "injectFile": "OmniRecorder",
